@@ -39,11 +39,12 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sanjuraj9031&count_private=true&show_icons=true&bg_color=#000&theme=cobalt"></p>
-<!--
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjuraj9031&theme=dark&hide_border=true"/></p> 
+<center>
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjuraj9031&theme=blue-green"> [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sanjuraj9031&theme=dark&background=000000)](https://git.io/streak-stats) 
+</center>
 
-<p align="center"><img src="https://metrics.lecoq.io/sanjuraj" alt="Github Metrics"></p>
--->
+
 
 <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
 </center>
