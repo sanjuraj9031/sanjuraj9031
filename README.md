@@ -9,7 +9,7 @@
 <li> 🌱 <b>I’m currently learning</b> : <code>Data Structures</code>, <code>Full Stack Web Development</code></li>
 <li> 💬 <b>Ask me about</b> : <code>Web Development</code>, <code>Git/Github</code>, <code>Java</code></li>
 <li> 📫 <b>How to reach me</b> : <code><a href="https://www.linkedin.com/in/sanju-raj-961246200/">LinkedIn</a></code></li>
-<li> 👩‍💻 <b>Portfolio</b> : <code><a href="https://sanjuraj9031.github.io/Portfolio/">https://#/</a></code></li>
+<li> 👩‍💻 <b>Portfolio</b> : <code><a href="https://sanjuraj9031.github.io/Portfolio/">Portfolio</a></code></li>
 <li> 😄 <b>Pronouns</b> : <code>He</code>/<code>Him</code></li>
 <!-- <li> ⚡ <b>Fun fact</b> : </li> -->
 </ul>
